@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-In this project, I run different type of testcases to test Cookies, Help Form, Credentials and Timer. 
+In this project, I run different type of testcases to test Cookies, Help Form, Credentials and Timer user interface. Given [website's](https://userinyerface.com/) UI was very tricky. You should handle those parts carefully. 
 
 
 ## Build and Run
