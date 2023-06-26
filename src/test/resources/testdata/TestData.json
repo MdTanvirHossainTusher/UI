@@ -1,0 +1,14 @@
+{
+  "lengths": {
+    "pwdLength": 10
+  },
+  "time": {
+    "timerTime": "00:00:00"
+  },
+  "emailDomain": {
+    "type": "gmail"
+  },
+  "selectInterests": {
+    "noOfInterests": 3
+  }
+}
